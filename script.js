@@ -1,4 +1,3 @@
-script.js
 // New function called random_number that takes one parameter, num (or a number)
 function random_number(num) {
 	// Get a random number between 0 and a passed-in number
